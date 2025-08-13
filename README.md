@@ -1,8 +1,21 @@
+import random
 from datetime import datetime
 
+messages = [
+    "Working on something cool 🚀",
+    "Small update 🛠",
+    "Refactoring code ✨",
+    "Fixing bugs 🐛",
+    "Learning new stuff 📚",
+    "Testing features 🔍",
+    "Updating docs 📄",
+    "Improving performance ⚡",
+    "Random commit 😎",
+    "Daily log ✅"
+]
 
 with open("activity_log.txt", "a", encoding="utf-8") as f:
-    f.write(f"Activity at {datetime.now()}\n")
+    f.write(f"{datetime.now()} - {random.choice(messages)}\n")
 
-print("Activity logged ✅")
+print("✅ Random activity logged")
 
