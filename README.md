@@ -3,7 +3,7 @@ from datetime import datetime
 
 messages = [
     "Working on something cool 🚀",
-    "Smal update 🛠",
+    "Small update 🛠",
     "Refactorin code ✨",
     "Fixing bugs 🐛",
     "Learning new stuff 📚",
