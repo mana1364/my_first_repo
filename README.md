@@ -1,7 +1,7 @@
 import random
 from datetime import datetime
 
-messagesdd = [
+messages = [
     "Working on something cool 🚀",
     "Small update 🛠",
     "Refactorin code ✨",
