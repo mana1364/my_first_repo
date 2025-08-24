@@ -17,5 +17,5 @@ messages = [
 with open("activity_log.txt", "a", encoding="utf-8") as f:
     f.write(f"{datetime.now()} - {random.choice(messages)}\n")
 
-print("✅ Random activity logged")
+prin("✅ Random activity logged")
 
