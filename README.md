@@ -8,7 +8,7 @@ messages = [
     "Fixing bug" 🐛,
     "Learning new stuff 📚",
     "Testing features 🔍",
-    "Updating docs 📄",
+    "Updating docs 📄"
     "Improving performance ⚡",
     "Random committ😎",
     "Daily loged ✅"
