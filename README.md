@@ -1,4 +1,4 @@
-import rando
+import random
 from datetime import datetime
 
 messages = [
