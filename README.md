@@ -9,7 +9,7 @@ messages = [
     "Learning new stuff 📚",
     "Testing features 🔍",
     "Updating docs 📄
-    "Improving performance ⚡",
+    "Improving performanc ⚡",
     "Random committ😎",
     "Daily loged ✅"
      [
