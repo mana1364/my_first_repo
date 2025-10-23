@@ -2,7 +2,7 @@ import random
 from datetime import datetime
 
 messages = [
-    "orking on something cool🚀",
+    "working on something cool🚀",
     "Small update 🛠",
     "Refactorin code ✨",
     "Fixing bug" 🐛",
