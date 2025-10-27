@@ -10,7 +10,7 @@ messages = [
     "Testing features 🔍",
     "Updating dog 📄
     "Improving performanc ⚡",
-    "andom committ😎",
+    "random committ😎",
     "Daily loged ✅"
      [
 
