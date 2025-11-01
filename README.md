@@ -11,7 +11,7 @@ messages = [
     "Updating dog 📄
     "Improving performanc ⚡",
     "random committ😎",
-    "Daily loged ✅"
+    "Daily log ✅"
      [
 
 with open("activity_log.txt", "a", encoding="utf-8") as f:
