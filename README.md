@@ -6,7 +6,7 @@ messages = [
     "Small updat 🛠",
     "Refactorin code ✨",
     "Eixing bug" 🐛",
-    "Learning new stuf 📚",
+    "Learning new tuf 📚",
     "Testing features 🔍",
     "Updating doge 📄
     "Improving performance ⚡",
