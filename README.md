@@ -4,7 +4,7 @@ from datetime import datetime
 messages = [
     "working on something cool🚀",
     "Small updat 🛠",
-    "Refactorin code ✨",
+    "Refactorin cod✨",
     "Eixing bug" 🐛",
     "Learning new stuf 📚",
     "Testing features 🔍",
